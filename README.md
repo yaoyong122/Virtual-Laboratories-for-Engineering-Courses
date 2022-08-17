@@ -16,3 +16,5 @@ The virtual labs can be utilized in undergraduate level Mechanical Vibrations, C
 - Calculate the mode ratios and eigenvalues of MDOF systems
 - Derive the equation of motion of vibratory mechanisms
 - Validate the theoretical equations obtained from Newton's Laws of Motion or Lagrange Equations through simulations
+
+#### Introductory videos are available at https://www.youtube.com/channel/UCj-_9z6Wf1aBZayrIP9qtjg/videos
